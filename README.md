@@ -1,5 +1,5 @@
 <p align="center">
- <img width="300px" src="https://www.truegossiper.com/wp-content/uploads/2019/10/1-7.jpg" style="border:1px solid #666 ; border-radius : 50%" align="center" alt="" />
+ <img width="300px" src="https://www.careergirls.org/wp-content/uploads/2015/06/Computer_Programmer1920X10180.jpg"  align="center" alt="" />
  <h2 align="center">Profile</h2>
 </p>
 
